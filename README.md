@@ -37,8 +37,8 @@ To receive credit you need to:
 
 ## Lecture notes (KB):
 
-1. [Introduction](01_introduction.html)
-2. [Cognition](02_cognition.html)
-2. [Social psychology](03_social.html)
-2. [Development](04_developmental.html)
-2. [Personality](05_personality.html)
+1. [Introduction](01_introduction.html#/title-slide)
+2. [Cognition](02_cognition.html#/title-slide)
+2. [Social psychology](03_social.html#/title-slide)
+2. [Development](04_developmental.html#/title-slide)
+2. [Personality](05_personality#/title-slide)

@@ -23,7 +23,7 @@ theme: white
 ## Class hours and forms of credit
 
 - 25h lectures (with me and dr Agata Zdun-Ryżewska)
-- 20h practical classes (Interpersonal Communication)
+- 20h workshops (Interpersonal Communication)
 - 15h self-learning
 - Written exam
 - Self-learning task
