@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+## Course info
 
-You can use the [editor on GitHub](https://github.com/k-basinski/ned_psych/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Introduction to psychology, Nursing ED, 2019/20
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Contact
 
-### Markdown
+Agata Zdun-Ryżewska, PhD (azdun AT gumed DOT edu DOT pl))
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Krzysztof Basiński, PhD (k DOT basinski AT gumed DOT edu DOT pl)
 
-```markdown
-Syntax highlighted code block
+Department of Quality of Life Research
 
-# Header 1
-## Header 2
-### Header 3
+Office: ul. Tuwima 15, room 312 (third floor)
 
-- Bulleted
-- List
+Phone: 58 349 15 55, 58 349 15 69
 
-1. Numbered
-2. List
+If you want to talk in person, schedule a meeting first.
 
-**Bold** and _Italic_ and `Code` text
+## Class hours and forms of credit
 
-[Link](url) and ![Image](src)
-```
+Class is on Thursdays from 12:45 to 3:00. Either room 39 or 5 (check your schedule!)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+To receive credit you need to:
 
-### Jekyll Themes
+- Attend workshops
+- Pass the exam (January 30th)
+- Make the self-learning task
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/k-basinski/ned_psych/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Self-learning task
 
-### Support or Contact
+- Last workshop (January 23th?)
+- Choose any topic (from the lectures or practical classes)
+- Prepare a presentation and a small workshop
+- Time: approx. 20min.
+- Presentations can use slides but *DO NOT READ THEM, PRESENT THEM*
+- E-mail the presentations to KB before class (ppt & pdf!)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Lecture notes:
+
+1. [Introduction](01_introduction.html)
+2. [Cognition](02_cognition.html)
+2. [Social psychology](03_social.html)
+2. [Development](04_developmental.html)
+2. [Personality](05_personality.html)
