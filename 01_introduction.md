@@ -2,8 +2,8 @@
 title: "Introduction to psychology"
 subtitle: "Nursing ED"
 author: "Krzysztof Basiński, Agata Zdun-Ryżewska"
-theme: white
 incremental: true
+theme: white
 ---
 
 # Basic info
@@ -81,124 +81,118 @@ Replicable research             No research is conducted
 
 - Until the end of 19th century psychology was in fact part of philosophy
 - Socrates, Plato, Aristotle, Thomas Aquinas, Hume, Locke, Descartes, Kant… 
+
+## A brief history
+
 - 1879 – first psychological laboratory, Wilhelm Wundt, University Leipzig, Germany 
 - Since then psychology as a separate scientific discipline
 
-# Psychophysics
+## Movements in 20th-century psychology
 
-## Psychophysics
-> Physiology provides sensations, observer provides perceptions 
-
-*H. Helmholtz, 1821-1894*
-
-## Psychophysics
-![Railway tracks](img/01railTracks.jpg)
-
-- The tracks are converging – sensation
- 
-- The tracks are parallel – perception
-
-## Psychophysics
-- Imagine two weights: 100 g and 130 g.
-- Would you be able to tell the difference between the two?
-
-- Now imagine another two weights: 10 kg and 10.03 kg (10,030 g).
-- Would you be able to tell the difference between those two?
-
-- How heavy the other weight needs to be for you to feel the difference?
-
-## Psychophysics
-- Weber–Fechner Law:
-    - I – stimulus intensity
-    - ∆I – just-noticeable difference in intensity
-    - K – constant
-
-- ∆I/I = K
-
-- ∆I = I * K
-
-- This (sort of) works for weight, sound, light etc.
-
-
-# Gestalt psychology
-
-## Gestalt psychology
-- A movement in German psychology, late 19th century
-- It is not possible to describe the human mind by analyzing its structure, one needs to look at the global whole
-- *“The whole is something other than the sum of its parts”* (Kurt Koffka)
-
-## Gestalt – emergence
-![Dog](img/01emergence.gif)
-
-## Gestalt – emergence
-- We see a dog (a Dalmatian?)
-- We do not recognize its parts independently (nose, ears, head, paws)
-- We see the dog in its entirety, at once
-- “The whole is something other than the sum of its parts”
-
-## Gestalt – reification
-![Reification](img/01reification.jpg)
-
-## Gestalt – reification
-- Our perception can generate more information on the object than it is given in reality
-- In picture A we see a triangle, though there is no triangle drawn
-- In pictures B and D, the eye recognizes disparate shapes as "belonging" to a single shape 
-- In C a complete three-dimensional shape is seen, where actually no such thing is drawn
-
-## Gestalt - multistability
-![Multistability](img/01multistability.png)
-
-## Gestalt - multistability
-![Multistability 2](img/01multistability2.jpg)
-
-
-## Gestalt - multistability
-- Multistability is a tendency of ambiguous perceptual experiences to pop back and forth unstably between two or more alternative interpretations
-- Gestalt psychologists described the effect but did not give an explanation
-- The Necker Cube is used today to test computer-based models of perception
-
-## Gestalt - invariance
-![Invariance](img/01invariance.jpg)
-
-
-## Gestalt - invariance
-- Invariance is the property of perception whereby simple geometrical objects are recognized independent of rotation, translation, and scale; as well as several other variations such as elastic deformations, different lighting, and different component features
-- These laws of perception were since explored by cognitive psychologists, and some are puzzling to this day
-
-## Perception today
-- Perception is generative
-- Same stimulus may be interpreted in different ways depending on:
-    - Context
-    - Who is looking
-    - Memory is used in perception
-
-
+- Psychoanalysis
+- Behaviorism
 
 # Psychoanalysis
 
 ## Psychoanalysis
+
 ![Freud](img/01freud.png)
 
 ## Psychoanalysis
+
 - Created by Sigmund Freud (1856-1939), a neurologist working in Vienna
 - Modified versions of psychoanalysis are still widely used in psychotherapy
 - Its scientific status is often disputed
 
 ## Psychoanalysis – basic assumptions
+
 1. A person's development is determined by often forgotten events in early childhood rather than by inherited traits alone
 2. Human attitude, mannerism, experience, and thought is largely influenced by irrational drives that are rooted in the unconscious
 3. It is necessary to bypass psychological resistance in the form of defense mechanisms when bringing drives into awareness
 
 ## Psychoanalysis – basic assumptions
+
 4. Conflicts between the conscious and the unconscious, or with repressed material can materialize in the form of mental or emotional disturbances, for example: neurosis, neurotic traits, anxiety, depression etc.
 5. Liberating the elements of the unconscious is achieved through bringing this material into the conscious mind (via e.g. skilled guidance, i.e. therapeutic intervention).
 
 ## Personality in psychoanalysis
+
 ![Personality](img/01personalityFreud.png)
 
 ## Psychoanalytic therapy - tools
+
 - Free associations method
 - Analysis of dreams
 - Analysis of defense mechanisms
 - Re-living things that happened in the past
 - Hypnosis
+
+# Behaviorism
+
+## Behaviorism
+
+- Created by John Watson (early 20th century), expanded by B.F.Skinner (1930s-1950s)
+- Psychology should only be concerned with the study of *objective, observable behaviour*
+- Phenomena such as thoughts, feelings, values, etc. are *not measurable*, and should be of no concern to scientists
+
+## Behaviorism
+
+- This view is now somewhat obsolete, though learning theory is a part of modern cognitive psychology
+- A key component of behaviorism is the *process of conditioning*
+
+
+## Mechanisms of learning
+
+- **Classical conditioning** (Ivan Pavlov)
+- **Operant conditioning** (Thorndike, Skinner, Konorski)
+- **Modelling / social learning theory** (Bandura)
+
+## Classical conditioning
+
+![Pavlov](img/02pavlov.png)
+
+## Classical conditioning works on people
+
+[The Little Albert Experiment](https://www.youtube.com/watch?v=FMnhyGozLyE)
+
+## Operant conditioning
+![Operant conditioning](img/02operant.png)
+
+## Reinforcement:
+
+  - Increases the chance that behavior will occur again in future
+  - Positive reinforcement occurs when a behavior (response) is rewarding or the behavior is followed by another stimulus that is rewarding, increasing the frequency of that behavior. 
+  - Negative reinforcement occurs when the rate of a behavior increases because an aversive event or stimulus is removed or prevented from happening.
+
+## Punishment:
+- Decreases the chance of repeating the behavior in future
+- Positive punishment - presenting aversive stimuli
+- Negative punishment – removing the reinforcing stimulus 
+
+## Operant vs. classical conditioning
+
+<https://www.youtube.com/watch?v=H6LEcM0E0io>
+
+## Behavioral theory – applications
+
+- Applied behavior analysis – a radical behaviorist method of treatment, useful in autism, behavioral disorders, substance abuse
+- Various animal learning models (i.e. used in physiological research)
+
+## Behavioral theory – applications
+
+- Cognitive-behavioral therapy – most widely used evidence-based intervention for treating mental disorders (i.e. depression, mood disorders, PTSD, eating disorders, OCD) as well as some supplementary treatment for other conditions (i.e. chronic low back pain, fibromyalgia)
+
+## Modern psychology
+
+- Explores **behavior and mental processes** 
+- These include: perception, thought, attention, emotion, intelligence, subjective experiences, motivation, personality and more
+- Studies conscious **and** unconscious phenomena
+- Analysis from **individual as well as social** perspectives
+
+## Modern psychology
+
+- Focuses on **cognition** (*cognitive science*)
+- Uses neuroscience to inform the study of the mind
+- Frequently explains psychological phenomena in terms of their **evolutionary fitness**
+- Is also a practical discipline, focused on assessment and treatment of mental health problems, counselling, education etc.
+
