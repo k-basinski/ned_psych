@@ -6,9 +6,9 @@ incremental: true
 ---
 
 
-# Social psychology
+### Social psychology
 
-## Social Psychology - themes
+### Social Psychology - themes
 INTRAPERSONAL
 
 - Attitudes
@@ -16,7 +16,7 @@ INTRAPERSONAL
 - Social cognition
 - The Self
 
-## Social Psychology - themes
+### Social Psychology - themes
 INTERPERSONAL
 
 - Social influence
@@ -24,14 +24,14 @@ INTERPERSONAL
 - Reletionships with others
 - Interpersonal attractiveness
 
-## Conformity – S.Asch experiment
+### Conformity – S.Asch experiment
 
 <https://www.youtube.com/watch?v=TYIh4MkcfJA>
 
-## Authority – S.Milgram
+### Authority – S.Milgram
 
 <https://www.youtube.com/watch?v=y6GxIuljT3w>
 
-## Blue eyes/ brown eyes - J. Eliott
+### Blue eyes/ brown eyes - J. Eliott
 
 <https://www.youtube.com/watch?v=ISt3cJMBrKc>
