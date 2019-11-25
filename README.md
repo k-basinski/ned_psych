@@ -42,3 +42,13 @@ To receive credit you need to:
 2. [Social psychology](03_social.html#/title-slide)
 2. [Development](04_developmental.html#/title-slide)
 2. [Personality](05_personality#/title-slide)
+
+## Lecture notes (AZR):
+
+- [Addiction](azr_handouts/addiction.pdf)
+- [Anxiety disorders](azr_handouts/anxiety.pdf)
+- [Depression](azr_handouts/depression.pdf)
+- [Psychosomatic](azr_handouts/psychosomatic.pdf)
+- [Stress](azr_handouts/stress.pdf)
+
+## 
