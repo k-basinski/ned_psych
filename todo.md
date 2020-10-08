@@ -1,4 +1,6 @@
 ## to do
 
-- wywal o stresie, dodaj o osobowości (?)
-- na koniec zrób handouty z zaktualizowanej treści
+- 02_cognition:
+  - evolution
+  - mating behavior
+  - stress coping lifestyle

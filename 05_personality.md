@@ -13,6 +13,11 @@ incremental: true
 - Personality is defined as the characteristic set of behaviors, cognitions, and emotional patterns that evolve from biological and environmental factors. 
 - While there is no generally agreed upon definition of personality, most theories focus on motivation and psychological interactions with one's environment.
 
+### Differences vs. universalities
+
+- Do people have more similatities to eachother or differences?
+- Population thinking
+- Universalities, evolution, etc.
 
 ### TIPI scale scoring 
 

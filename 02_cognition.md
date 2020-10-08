@@ -46,6 +46,51 @@ incremental: true
 - The mind  is a "computer" that is physically implemented by neural activity in the brain
 - Input via perception, output via behavior
 
+### Evolution & psychology
+
+- Modern psychology is grounded in evolutionary thinking
+- Evolutionary principles apply to all animals (including people)
+- Psychological processes have been shaped by evolution the same way as anatomy and physiology
+
+### Mechanisms of evolution
+
+- Natural selection
+- Sexual selection
+- Reciprocity
+- Genetic drift
+- 
+
+### Examples
+
+- Social bonding and behaviors
+- Mating behavior
+- Eating habits
+- Stress, coping and _lifestyle disease_
+
+### Social bonding
+
+- Reciprocity
+- 
+
+### Mating strategies
+
+- Sex differences
+- Women have more parental investment
+- Women are able to produce less offspring
+- 
+
+### Eating habits
+
+- Strong preference for sugary, fatty foods
+- Human natural history is full of hunger
+- Overweight pandemic
+- 
+
+### 
+
+### Stress, coping and _lifestyle disease_
+
+
 
 ### Perception 
 
@@ -109,12 +154,20 @@ incremental: true
 - Invariance is the property of perception whereby simple geometrical objects are recognized independent of rotation, translation, and scale; as well as several other variations such as elastic deformations, different lighting, and different component features
 - These laws of perception were since explored by cognitive psychologists, and some are puzzling to this day
 
-### Perception today
-- Perception is generative
-- Same stimulus may be interpreted in different ways depending on:
+### Perception is generative
+
+- We generate the world around us
+- Same stimulus may be interpreted in differently depending on:
     - Context
     - Who is looking
-    - Memory is used in perception
+    - What actions are taken
+    - Motivational state
+    - Previous experiences
+
+### Predictive processing
+
+- Brain is in the business of **predicting future states**
+- 
 
 ### Memory
 

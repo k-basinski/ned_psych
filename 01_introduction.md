@@ -12,9 +12,9 @@ theme: white
 
 ### Course info
 
-- Introduction to psychology, Nursing ED, 2019/20
+- Introduction to psychology, Nursing ED, 2020/21
 - Taught by Krzysztof Basiński PhD, Agata Zdun-Ryżewska PhD
-- Department of Quality of Life Research
+- Department of Psychology
 
 ### Contact
 
@@ -22,22 +22,29 @@ theme: white
 - Office: ul. Tuwima 15, room 312 (third floor)
 - Phone: 58 349 15 55, 58 349 15 69
 
+### Platform
+
+- Zoom for lectures
+- Maybe a switch later on
+- Moodle for course materials, exam, etc. (access next week)
+
 ### Class hours and forms of credit
 
-- 25h lectures (with me and dr Agata Zdun-Ryżewska)
-- 20h workshops (Interpersonal Communication)
-- 15h self-learning
-- Written exam
+- 30h lectures (with me and dr Agata Zdun-Ryżewska)
+- 14h online workshops (Interpersonal Communication)
+- 6h in-person workshops
 - Self-learning task
+- Written exam
+
 
 ### Self-learning task
 
-- Last class of Interpersonal Communication (January 23th?)
+- Last class of Interpersonal Communication (somewhere in January)
 - Choose any topic (from the lectures or practical classes)
 - Prepare a presentation and a small workshop
 - Time: approx. 20min.
 - Presentations can use slides but *DO NOT READ THEM, PRESENT THEM*
-- E-mail the presentations to me before class (ppt & pdf!): k.basinski@gumed.edu.pl
+- E-mail the presentations to me before class (ppt & pdf!)
 
 ### Introduction to psychology
 
@@ -105,6 +112,11 @@ Replicable research             No research is conducted
 - Created by Sigmund Freud (1856-1939), a neurologist working in Vienna
 - Modified versions of psychoanalysis are still widely used in psychotherapy
 - Its scientific status is often disputed
+
+### Psychoanalysis
+
+<https://www.youtube.com/watch?v=nJm7AhdGbDk>
+
 
 ### Psychoanalysis – basic assumptions
 
