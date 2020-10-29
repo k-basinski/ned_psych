@@ -39,11 +39,14 @@ To receive credit you need to:
 
 ## Lecture notes (KB):
 
-1. [Introduction](01_introduction.html#/title-slide)
-2. [Cognition](02_cognition.html#/title-slide)
-2. [Social psychology](03_social.html#/title-slide)
-2. [Development](04_developmental.html#/title-slide)
-2. [Personality](05_personality#/title-slide)
+- [Introduction](01_introduction.html#/title-slide)
+- [Evolution](pdf/02_evo.pdf)
+- [Neuroscience](pdf/03_neuro.pdf)
+- [Perception](pdf/04_perception.pdf)
+- [Memory and intelligence](pdf/06_mem_iq.pdf)
+- [Personality](pdf/07_personality.pdf)
+- [Development](pdf/08_development.pdf)
+- [Social psychology](pdf/09_social.pdf)
 
 <!-- 
 ## Lecture notes (AZR):

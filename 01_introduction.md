@@ -196,17 +196,3 @@ Replicable research             No research is conducted
 
 - Cognitive-behavioral therapy – most widely used evidence-based intervention for treating mental disorders (i.e. depression, mood disorders, PTSD, eating disorders, OCD) as well as some supplementary treatment for other conditions (i.e. chronic low back pain, fibromyalgia)
 
-### Modern psychology
-
-- Explores **behavior and mental processes** 
-- These include: perception, thought, attention, emotion, intelligence, subjective experiences, motivation, personality and more
-- Studies conscious **and** unconscious phenomena
-- Analysis from **individual as well as social** perspectives
-
-### Modern psychology
-
-- Focuses on **cognition** (*cognitive science*)
-- Uses neuroscience to inform the study of the mind
-- Frequently explains psychological phenomena in terms of their **evolutionary fitness**
-- Is also a practical discipline, focused on assessment and treatment of mental health problems, counselling, education etc.
-
