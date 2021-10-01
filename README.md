@@ -1,4 +1,4 @@
-## Introduction to psychology, Nursing ED, 2019/20
+## Introduction to psychology, Nursing ED, 2021/22
 
 ## Contact
 
@@ -16,9 +16,8 @@ If you want to talk in person, schedule a meeting via e-mail.
 
 ## Class hours
 
-Class is on Thursdays from 12:00pm to 3:00pm, online 
+Class is on Thursdays from 12:15pm to 3:15pm, INM, room no. 19 or 41 (check the schedule!)
 
-All info, zoom links and resources - see Moodle
 
 ## Credit
 
