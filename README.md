@@ -38,7 +38,7 @@ To receive credit you need to:
 
 ## Lecture notes (KB):
 
-- [Introduction](01_introduction.html#/title-slide)
+- [Introduction](01_intro)
 - [Evolution](pdf/02_evo.pdf)
 - [Neuroscience](pdf/03_neuro.pdf)
 - [Perception](pdf/04_perception.pdf)
