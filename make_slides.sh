@@ -1,8 +1,11 @@
 #!/bin/zsh
 
-pandoc -t revealjs -s 01_introduction.md -o 01_introduction.html -i
-pandoc -t revealjs -s 02_cognition.md -o 02_cognition.html -i
-pandoc -t revealjs -s 03_social.md -o 03_social.html -i
-pandoc -t revealjs -s 04_developmental.md -o 04_developmental.html -i
-pandoc -t revealjs -s 05_personality.md -o 05_personality.html -i
+# htmls
+marp 01_intro.md -o 01_intro.html
+marp 02_evo.md -o 02_evo.html
+marp 03_neuro.md -o 03_neuro.html
 
+# pdfs
+marp 01_intro.md -o pdf/01_intro.pdf --allow-local-files
+marp 02_evo.md -o pdf/02_evo.pdf --allow-local-files
+marp 03_neuro.md -o pdf/03_neuro.pdf --allow-local-files

@@ -13,10 +13,10 @@ theme: uncover
 
 ### Brain facts
 
-- By far the most complex organ
-- Cerebral cortex has about 15 billion neurons
-- Cerebellum has 55-70 billion
-- Each neuron connects to up to several thousands other neurons
+* By far the most complex organ
+* Cerebral cortex has about 15 billion neurons
+* Cerebellum has 55-70 billion
+* Each neuron connects to up to several thousands other neurons
 
 ---
 
@@ -52,8 +52,8 @@ theme: uncover
 
 ### Networks and function
 
-- Many networks perform a given function
-- Many functions are perfomed by a given network
+* Many networks perform a given function
+* Many functions are perfomed by a given network
 
 ---
 
@@ -75,10 +75,10 @@ theme: uncover
 
 ### fMRI
 
-- Blood-oxygen-level dependent signal (BOLD)
-- You can see the function _in vivo_ (kinda)
-- Good spatial resolution
-- Poor temporal resolution
+* Blood-oxygen-level dependent signal (BOLD)
+* You can see the function _in vivo_ (kinda)
+* Good spatial resolution
+* Poor temporal resolution
 
 ---
 
@@ -96,8 +96,8 @@ theme: uncover
 
 ### Other methods
 
-- MEG (magnetoencephalography)
-- PET (positron emission tomography)
-- NIRS (near-infrared spectroscopy)
-- Pupillometry
-- Electrodermal response
+* MEG (magnetoencephalography)
+* PET (positron emission tomography)
+* NIRS (near-infrared spectroscopy)
+* Pupillometry
+* Electrodermal response
