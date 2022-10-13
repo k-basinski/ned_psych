@@ -11,7 +11,7 @@ theme: uncover
 
 #  Course info
 
-* Introduction to psychology, Nursing ED, 2021/22
+* Introduction to psychology, Nursing ED, 2022/23
 * Taught by Krzysztof Basiński PhD, Agata Zdun-Ryżewska PhD
 * Department of Psychology
 
@@ -22,14 +22,13 @@ theme: uncover
 * E-mail: k.basinski@gumed.edu.pl
 * Office: ul. Tuwima 15, room 312 (third floor)
 * Phone: 58 349 15 55, 58 349 15 69
-
+* Office hours: Fridays, 12:45-14:00
 ---
 
 #  Class hours and forms of credit
 
-* 30h lectures (with me and dr Agata Zdun-Ryżewska)
-* 14h online workshops (Interpersonal Communication)
-* 6h in-person workshops
+* Lectures (with me and dr Agata Zdun-Ryżewska)
+* Workshops (Ashwika Ahuja)
 * Self-learning task
 * Written exam
 
@@ -38,13 +37,7 @@ theme: uncover
 
 #  Self-learning task
 
-* Last class of Interpersonal Communication (somewhere in January)
-* Choose any topic (from the lectures or practical classes)
-* Prepare a presentation and a small workshop
-* Time: approx. 20min.
-* Presentations can use slides but *DO NOT READ THEM, PRESENT THEM*
-* E-mail the presentations to me before class (ppt & pdf!)
-
+* You'll learn about the task during the first practical class
 ---
 
 #  Introduction to psychology
@@ -195,7 +188,7 @@ theme: uncover
 
 * **Classical conditioning** (Ivan Pavlov)
 * **Operant conditioning** (Thorndike, Skinner, Konorski)
-* **Modelling / social learning theory** (Bandura)
+* **Modeling / social learning theory** (Bandura)
 
 ---
 

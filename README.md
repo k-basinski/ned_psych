@@ -6,9 +6,12 @@ Agata Zdun-Ryżewska, PhD (azdun AT gumed DOT edu DOT pl)
 
 Krzysztof Basiński, PhD (krzysztof DOT basinski AT gumed DOT edu DOT pl)
 
+Ashwika Ahuja (agnieszka DOT ahuja AT gumed DOT edu DOT pl)
+
+
 Department of Quality of Life Research
 
-Office: ul. Tuwima 15, room 312 (third floor)
+Office: ul. Tuwima 15, room 310, 312 (third floor)
 
 Phone: 58 349 15 55, 58 349 15 69
 
@@ -24,17 +27,8 @@ Class is on Thursdays from 12:15pm to 3:15pm, INM, room no. 19 or 41 (check the 
 To receive credit you need to:
 
 - Attend workshops
-- Pass the exam 
-- Make the self-learning task
-
-#### Self-learning task
-
-- Last workshop (January)
-- Choose any topic (from the lectures or practical classes)
-- Prepare a presentation and a small workshop
-- Time: approx. 20min.
-- Presentations can use slides but *DO NOT READ THEM, PRESENT THEM*
-- E-mail the presentations to KB before class (ppt & pdf!)
+- Pass the exam (in the exam session)
+- Make the self-learning task (more details during workshops)
 
 ## Lecture notes (KB):
 
